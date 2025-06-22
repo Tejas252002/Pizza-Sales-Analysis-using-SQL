@@ -72,35 +72,35 @@ pizza_types(pizza_type_id, name, category)
 Creates the base schema with `orders` and `order_details` tables.
 
 ### 📌 2. Total Orders Query
-**Image:** ![2.png](screenshots/2.png)  
+**Image:** ![2.png](2.png)  
 Counts the number of unique orders placed.
 
 ### 📌 3. Total Revenue from Sales
-**Image:** ![3.png](screenshots/3.png)  
+**Image:** ![3.png](3.png)  
 Calculates the total revenue generated using quantity and price.
 
 ### 📌 4. Highest Priced Pizza
-**Image:** ![4.png](screenshots/4.png)  
+**Image:** ![4.png](4.png)  
 Finds the pizza with the maximum price.
 
 ### 📌 5. Most Common Pizza Size
-**Image:** ![5.png](screenshots/5.png)  
+**Image:** ![5.png](5.png)  
 Groups pizza orders by size and orders them by frequency.
 
 ### 📌 6. Pizza Category by Quantity
-**Image:** ![7.png](screenshots/7.png)  
+**Image:** ![7.png](7.png)  
 Displays the total quantity of pizzas ordered by category.
 
 ### 📌 7. Order Time Distribution
-**Image:** ![8.png](screenshots/8.png)  
+**Image:** ![8.png](8.png)  
 Visualizes order distribution across hours of the day.
 
 ### 📌 8. Category-wise Pizza Count
-**Image:** ![9.png](screenshots/9.png)  
+**Image:** ![9.png](9.png)  
 Counts the number of pizzas available in each category.
 
 ### 📌 9. Average Pizzas Ordered per Day
-**Image:** ![10.png](screenshots/10.png)  
+**Image:** ![10.png](10.png)  
 Calculates the average number of pizzas ordered per day.
 
 ---
