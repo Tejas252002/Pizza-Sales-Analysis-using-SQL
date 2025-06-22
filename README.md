@@ -68,7 +68,7 @@ pizza_types(pizza_type_id, name, category)
 ## 🖼️ Screenshot Highlights
 
 ### 📌 1. Table Creation Script
-**Image:** ![1.png](screenshots/1.png)  
+**Image:** ![1.png](1.png)  
 Creates the base schema with `orders` and `order_details` tables.
 
 ### 📌 2. Total Orders Query
