@@ -64,59 +64,59 @@ pizza_types(pizza_type_id, name, category)
 
 ### 📌 1. Table Creation  
 `orders` and `order_details` schema definition.  
-![1.png](screenshots/1.png)
+![1.png](1.png)
 
 ### 📌 2. Total Orders  
 Query to count number of orders placed.  
-![2.png](screenshots/2.png)
+![2.png](2.png)
 
 ### 📌 3. Total Revenue  
 Calculates revenue using joined tables.  
-![3.png](screenshots/3.png)
+![3.png](3.png)
 
 ### 📌 4. Highest Priced Pizza  
 Identifies the costliest pizza.  
-![4.png](screenshots/4.png)
+![4.png](4.png)
 
 ### 📌 5. Most Ordered Size  
 Shows size-wise pizza demand.  
-![5.png](screenshots/5.png)
+![5.png](5.png)
 
 ### 📌 6. Top 5 Pizza Types by Quantity  
 Ranks pizza types by number of units sold.  
-![6.png](screenshots/6.png)
+![6.png](6.png)
 
 ### 📌 7. Quantity per Category  
 Sums pizzas ordered by category.  
-![7.png](screenshots/7.png)
+![7.png](7.png)
 
 ### 📌 8. Orders by Hour  
 Groups orders to show hourly distribution.  
-![8.png](screenshots/8.png)
+![8.png](8.png)
 
 ### 📌 9. Pizza Count per Category  
 Counts how many unique pizzas exist per category.  
-![9.png](screenshots/9.png)
+![9.png](9.png)
 
 ### 📌 10. Average Pizzas per Day  
 Averages total pizzas sold daily.  
-![10.png](screenshots/10.png)
+![10.png](10.png)
 
 ### 📌 11. Top 5 Pizzas by Revenue  
 Lists pizzas that made the most money.  
-![11.png](screenshots/11.png)
+![11.png](11.png)
 
 ### 📌 12. Revenue % per Category  
 Shows which category contributes what % to total revenue.  
-![12.png](screenshots/12.png)
+![12.png](12.png)
 
 ### 📌 13. Cumulative Revenue by Day  
 Tracks sales revenue accumulating over time.  
-![13.png](screenshots/13.png)
+![13.png](13.png)
 
 ### 📌 14. Top 3 Revenue Pizzas per Category  
 Uses `RANK()` + `PARTITION BY` to segment results.  
-![14.png](screenshots/14.png)
+![14.png](14.png)
 
 ---
 
